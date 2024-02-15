@@ -6,8 +6,9 @@ To run this project locally, follow these steps:
 <h2>Clone the repository:</h2>
 ```
 git clone https://github.com/anandkm629/chat-app.git <br>
-cd chat-app
+cd chat-app 
 ```
+
 <h2>backend</h2>
 Navigate to the backend directory:
 cd backend
