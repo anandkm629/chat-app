@@ -10,19 +10,19 @@ cd chat-app `
 
 <h2>backend</h2>
 Navigate to the backend directory:
-cd backend
+`cd backend`
 Install dependencies:
-npm install
+`npm install`
 Run the application:
-npm run dev
+`npm run dev`
 <h2>frontend</h2>
 Open a new terminal for the frontend:
 
 Navigate to the frontend directory:
-cd frontend
+`cd frontend`
 Install dependencies:
-npm install
+`npm install`
 Change the Socket.IO URL to the localhost where the server is running.
 Run the application:
-npm run dev
+`npm run dev`
 Now, you should be able to run the entire application locally. Make sure to navigate to the correct directories (backend and frontend) when installing dependencies and running the applications.
