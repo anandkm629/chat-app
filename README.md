@@ -9,7 +9,7 @@ cd chat-app `
 
 
 <h2>backend</h2>
-###Navigate to the backend directory:
+<h3>Navigate to the backend directory:</h3>
 `cd backend`
 <br>
 Install dependencies:
@@ -20,7 +20,7 @@ Run the application:
 <h2>frontend</h2>
 Open a new terminal for the frontend:
 
-###Navigate to the frontend directory:
+<h3>Navigate to the frontend directory:</h3>
 `cd frontend`
 Install dependencies:
 <br>
