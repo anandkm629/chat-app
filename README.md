@@ -4,7 +4,7 @@ This is a real-time chat application built with React for the frontend and Node.
 To run this project locally, follow these steps:
 
 <h2>Clone the repository:</h2>
-git clone https://github.com/anandkm629/chat-app.git <br>
+git clone https://github.com/anandkm629/chat-app <br>
 cd chat-app
 
 
