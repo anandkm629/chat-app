@@ -5,28 +5,34 @@ To run this project locally, follow these steps:
 
 <h2>Clone the repository:</h2>
 git clone https://github.com/anandkm629/chat-app.git <br>
-`cd chat-app `
+cd chat-app
 
 
 <h2>backend</h2>
 <h3>Navigate to the backend directory:</h3>
-`cd backend`
+<code>cd backend</code>
 <br>
 Install dependencies:
-`npm install`
+<br>
+<code>npm install</code>
 <br>
 Run the application:
-`npm run dev`
+<code>npm run dev</code>
 <h2>frontend</h2>
 Open a new terminal for the frontend:
 
 <h3>Navigate to the frontend directory:</h3>
-`cd frontend`
+<br>
+<code>cd frontend</code>
+<br>
 Install dependencies:
 <br>
-`npm install`
+<code>npm install</code>
+<br>
 Change the Socket.IO URL to the localhost where the server is running.
 <br>
 Run the application:
-`npm run dev`
+<br>
+<code>npm run dev</code>
+<br>
 Now, you should be able to run the entire application locally. Make sure to navigate to the correct directories (backend and frontend) when installing dependencies and running the applications.
