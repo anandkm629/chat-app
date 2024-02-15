@@ -1,19 +1,19 @@
 <h1>Chat app</h1>
 This is a real-time chat application built with React for the frontend and Node.js with Express and Socket.IO for the backend.
-Getting Started
+<h3>Getting Started</h3>
 To run this project locally, follow these steps:
 
-Clone the repository:
-git clone https://github.com/agrawal542/chat-app.git
+<h2>Clone the repository:</h2>
+git clone https://github.com/anandkm629/chat-app.git
 cd chat-app
-backend
+<h2>backend</h2>
 Navigate to the backend directory:
 cd backend
 Install dependencies:
 npm install
 Run the application:
 npm run dev
-frontend
+<h2>frontend</h2>
 Open a new terminal for the frontend:
 
 Navigate to the frontend directory:
